@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://exploreexception.github.io/age-shield-nad-booster-us-ca-uk/sitemap.xml
+Sitemap: https://age-shield-nad-booster-us-ca-uk.vercel.app/sitemap-vercel.xml
+Sitemap: https://age-shield-nad-booster-us-ca-uk.pages.dev/sitemap-cloudflare.xml
